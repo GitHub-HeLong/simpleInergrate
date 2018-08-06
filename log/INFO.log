@@ -1,0 +1,12 @@
+2018 -08-06 10:51 :29 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong
+ 2018 -08-06 10:59 :06 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong
+ 2018 -08-06 10:59 :07 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong
+ 2018 -08-06 10:59 :08 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong
+ 2018 -08-06 11:02 :50 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(88) -关闭连接
+ 2018 -08-06 11:04 :45 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong
+ 2018 -08-06 11:05 :14 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(88) -关闭连接
+ 2018 -08-06 11:20 :04 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong 1
+ 2018 -08-06 11:20 :17 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(63) -发送消息:sendMessage  helong 2
+ 2018 -08-06 11:24 :42 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(65) -发送消息:sendMessage  helong 2
+ 2018 -08-06 11:25 :52 [ INFO] - activeMQ.OperationMQ -OperationMQ.java(65) -发送消息:sendMessage  helong 2
+ 
